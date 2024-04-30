@@ -1,0 +1,47 @@
+# Ignore VSCode settings
+.vscode/
+
+# Ignore user-specific VSCode settings
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# Ignore node_modules directory if using Node.js
+node_modules/
+
+# Ignore any compiled files or artifacts
+*.class
+*.jar
+*.war
+*.ear
+*.exe
+*.dll
+*.so
+*.dylib
+*.pdb
+*.lib
+*.obj
+*.a
+*.out
+*.app
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Ignore package-lock.json for npm projects
+package-lock.json
+
+# Ignore .DS_Store files on macOS
+.DS_Store
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
+
